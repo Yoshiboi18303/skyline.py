@@ -1,1 +1,1 @@
-from skyline.skyline import psc
+from skyline import psc, gwig

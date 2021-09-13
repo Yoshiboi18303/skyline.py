@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as f:
   long_description = "\n" + f.read()
 
-VERSION = '0.0.1'
+VERSION = '0.0.5'
 DESCRIPTION = "Interacts with the Skyline Bots API"
 LONG_DESCRIPTION = "A Python Package used to interact with the Skyline Bots API"
 
@@ -33,7 +33,6 @@ setup(
     "Development Status :: 2 - Pre-Alpha",
     "Intended Audience :: Developers",
     "Programming Language :: Python :: 3",
-    "Operating System :: Linux",
     "Operating System :: Unix",
     "Operating System :: MacOS :: MacOS X",
     "Operating System :: Microsoft :: Windows",

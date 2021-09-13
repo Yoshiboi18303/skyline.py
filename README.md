@@ -1,6 +1,8 @@
 # skyline.py
 A Python Package used to interact with the [Skyline Bots](https://skylinebots.ml/) API
 
+**This package is still in development, bugs may be present!**
+
 ---
 
 # Features
@@ -50,7 +52,7 @@ client.run("token")
 # Support
 Here are all the ways you can get support with this package!
 
-- ### Join the [Support Server]()
-
+- ### Join the [Support Server](https://discord.gg/ygK56KaxHC)
+- ### [Email](mailto:<yoshiboi18303.t@gmail.com>) the author
 
 ---
